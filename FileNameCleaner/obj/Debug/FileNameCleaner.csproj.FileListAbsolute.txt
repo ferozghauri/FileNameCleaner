@@ -1,0 +1,9 @@
+c:\users\muhammad.feroz\source\repos\FileNameCleaner\FileNameCleaner\bin\Debug\FileNameCleaner.exe.config
+c:\users\muhammad.feroz\source\repos\FileNameCleaner\FileNameCleaner\bin\Debug\FileNameCleaner.exe
+c:\users\muhammad.feroz\source\repos\FileNameCleaner\FileNameCleaner\bin\Debug\FileNameCleaner.pdb
+c:\users\muhammad.feroz\source\repos\FileNameCleaner\FileNameCleaner\obj\Debug\FileNameCleaner.Form1.resources
+c:\users\muhammad.feroz\source\repos\FileNameCleaner\FileNameCleaner\obj\Debug\FileNameCleaner.Properties.Resources.resources
+c:\users\muhammad.feroz\source\repos\FileNameCleaner\FileNameCleaner\obj\Debug\FileNameCleaner.csproj.GenerateResource.Cache
+c:\users\muhammad.feroz\source\repos\FileNameCleaner\FileNameCleaner\obj\Debug\FileNameCleaner.csproj.CoreCompileInputs.cache
+c:\users\muhammad.feroz\source\repos\FileNameCleaner\FileNameCleaner\obj\Debug\FileNameCleaner.exe
+c:\users\muhammad.feroz\source\repos\FileNameCleaner\FileNameCleaner\obj\Debug\FileNameCleaner.pdb
